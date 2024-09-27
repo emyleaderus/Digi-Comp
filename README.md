@@ -1,4 +1,5 @@
 # Digi-Comp
+
 Website Link
 https://ezatulashikin06.wixsite.com/sudore
 
@@ -34,3 +35,11 @@ Danial's Part
 27 Sept - Mobile App User Manual are 100% done
 27 Sept - Recorded video presentation
 
+Fatimah's Part
+23 Sept - created Wix account
+23 Sept - watched some Wix tutorial on youtube
+24 Sept - Trying to figure out how to use Wix
+25 Sept - collaborated with Ezatul Ashikin on Wix
+26 Sept - continue editing Wix until finalised version
+26 Sept - notify Ezatul about the finalised website
+27 Sept - Recorded presentation video
