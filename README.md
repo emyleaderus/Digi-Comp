@@ -1,4 +1,7 @@
 # Digi-Comp
+26 Sept - Started learning how to use figma
+26 Sept - Started working on figma 
+27 Sept - Recorded presentation video
 23 Sept - Started to explore and learn how to use Figma 
 24 Sept - Brainstormed an idea and concept to apply on the mobile app
 24 Sept - Created the mobile app page by page based on the workflow
@@ -8,4 +11,3 @@
 26 Sept - Creating the user manual
 27 Sept - Mobile App User Manual are 80% done
 27 Sept - Mobile App User Manual are 100% done
-
