@@ -1,4 +1,4 @@
-# Digi-Comp
+# Digital Competence FCI3 G5
 
 Website Link
 https://ezatulashikin06.wixsite.com/sudore
